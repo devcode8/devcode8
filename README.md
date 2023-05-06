@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Developer with a passion for building beautiful and user friendly websites.I have a strong understanding of both front-end and back-end development , and I am excited to put my skills to use in a professional setting. I am quick learner and a team player, and U am confident that I can be valuable asset to any web development team.
+I am a Full Stack Developer with a passion for building beautiful and user friendly websites.I have a strong understanding of both front-end and back-end development , and I am excited to put my skills to use in a professional setting. I am quick learner and a team player, and I am confident that I can be valuable asset to any web development team.
 
 
 ## 🌐 Socials:
