@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Developer with a passion for building beautiful and user friendly websites.I have a strong understanding of both front-end and back-end development , and I am excited to put my skills to use in a professional setting. I am quick learner and a team player, and I am confident that I can be valuable asset to any web development team.<br>
+I'm a Full Stack Web3 Developer and AI Agent Developer driven by the future of decentralized intelligence and user-centric digital experiences. I bridge the power of blockchain, AI, and modern web technologies to build robust, scalable, and intuitive applications that push the boundaries of what's possible.<br>
 
 
 ## 🌐 Socials:
